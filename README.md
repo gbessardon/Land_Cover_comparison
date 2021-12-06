@@ -2,7 +2,10 @@
 
 This aims at comparing different land cover maps
 
-Open LUCAS.ipynb
+The scripts here have been run in google colab with data stored in a google drive all the notebook start with option whether to run on colab and drive variables
+If running on drive and collab all the necessary library will be installed if outside collab you will need to check your config (detailed list of library necessary tbh)
+
+Open LUCAS.ipynb: Opens the LUCAS Copernicus file (not needed to run the other scripts
 
 Read_open_streetmap.ipynb: Opens the shape file containing the LUCAS copernicus polygons, requests the different OSM data corresponding to the polygon
 
